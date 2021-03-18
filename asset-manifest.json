@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/surendarpd.com/static/css/main.0e95de3e.chunk.css",
+    "main.js": "/surendarpd.com/static/js/main.0e1ecd1d.chunk.js",
+    "main.js.map": "/surendarpd.com/static/js/main.0e1ecd1d.chunk.js.map",
+    "runtime-main.js": "/surendarpd.com/static/js/runtime-main.0d27f3f2.js",
+    "runtime-main.js.map": "/surendarpd.com/static/js/runtime-main.0d27f3f2.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/surendarpd.com/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.b7e480cf.chunk.js": "/surendarpd.com/static/js/2.b7e480cf.chunk.js",
+    "static/js/2.b7e480cf.chunk.js.map": "/surendarpd.com/static/js/2.b7e480cf.chunk.js.map",
+    "static/js/3.a35c4ba0.chunk.js": "/surendarpd.com/static/js/3.a35c4ba0.chunk.js",
+    "static/js/3.a35c4ba0.chunk.js.map": "/surendarpd.com/static/js/3.a35c4ba0.chunk.js.map",
+    "index.html": "/surendarpd.com/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/surendarpd.com/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.0e95de3e.chunk.css.map": "/surendarpd.com/static/css/main.0e95de3e.chunk.css.map",
+    "static/js/2.b7e480cf.chunk.js.LICENSE.txt": "/surendarpd.com/static/js/2.b7e480cf.chunk.js.LICENSE.txt",
+    "static/media/IMG_1.3183549d.jpg": "/surendarpd.com/static/media/IMG_1.3183549d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d27f3f2.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.b7e480cf.chunk.js",
+    "static/css/main.0e95de3e.chunk.css",
+    "static/js/main.0e1ecd1d.chunk.js"
+  ]
+}
