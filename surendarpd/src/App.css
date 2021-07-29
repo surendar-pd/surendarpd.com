@@ -1,0 +1,21 @@
+*, *::after, *::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  background-color:#020808;
+  font-family: "Roboto Mono";
+}
+html{
+  box-sizing: border-box;
+  
+}
+::-webkit-scrollbar{
+  display:none;
+}
+:root{
+  --background-color: #020808;
+  --main-text-color: #30DFA3;
+  --dark-gray:#596580;
+  --gray:#8892B0;
+  --light-gray:#CCD6F5;
+}
